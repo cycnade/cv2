@@ -7,10 +7,28 @@
     margin-right: -105px;
     
 }
+.jumbotron{
+	background-color:  #1496bb;
+}
 .heading{
 	margin-left: 5%;
 	margin-top: 0px;
+	color: white;
+	
+}
 
+p {
+	color: ffa500;
+}
+.navbar-inverse .navbar-nav>li>a {
+    color: white;
+}
+.navbar-inverse .navbar-nav>.active>a, .navbar-inverse .navbar-nav>.active>a:focus, .navbar-inverse .navbar-nav>.active>a:hover {
+    color: #fff;
+    background-color: #080808;
+}
+.navbar-inverse .navbar-brand {
+    color: white;
 }
 .glyphicon {
     position: relative;
