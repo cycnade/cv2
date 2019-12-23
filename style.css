@@ -1,0 +1,25 @@
+.navbar {
+    position: relative;
+    min-height: 30px;
+}
+.navbar-right {
+    float: right!important;
+    margin-right: -105px;
+    
+}
+.heading{
+	margin-left: 5%;
+	margin-top: 0px;
+
+}
+.glyphicon {
+    position: relative;
+    top: 1px;
+    display: inline-block;
+    font-family: 'Glyphicons Halflings';
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1;
+    -webkit-font-smoothing: antialiased;
+    padding-right:10px;
+  }
